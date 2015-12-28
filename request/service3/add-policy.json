@@ -1,0 +1,4 @@
+{
+	"definitionId":"cookie-remove-policy",
+	"configuration":"{\"cookieName\":\"XSESSION\",\"cookiePath\":\"/\",\"invalidateSession\":true}"
+}

@@ -1,0 +1,6 @@
+{
+	"type":"publishService",
+	"entityId":"logout",
+	"organizationId":"example",
+	"entityVersion":"1.0"
+}

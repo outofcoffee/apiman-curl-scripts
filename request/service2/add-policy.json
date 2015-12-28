@@ -1,0 +1,4 @@
+{
+	"definitionId":"cookie-validate-policy",
+	"configuration":"{\"validationType\":\"ValidSession\",\"cookieName\":\"XSESSION\",\"authHeaderName\":\"X-Authenticated-Principal\"}"
+}

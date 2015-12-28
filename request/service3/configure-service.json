@@ -1,0 +1,7 @@
+{
+	"endpointProperties":{},
+	"endpoint":"http://jsonplaceholder.typicode.com/users/3",
+	"endpointType":"rest",
+	"plans":[],"publicService":true,
+	"gateways":[{"gatewayId":"tomcat"}]
+}
