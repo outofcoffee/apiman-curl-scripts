@@ -1,6 +1,6 @@
 {
 	"endpointProperties":{},
-	"endpoint":"http://jsonplaceholder.typicode.com/users/1",
+	"endpoint":"http://echo.jsontest.com/key/value/username/example",
 	"endpointType":"rest",
 	"plans":[],"publicService":true,
 	"gateways":[{"gatewayId":"tomcat"}]

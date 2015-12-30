@@ -1,4 +1,4 @@
 {
 	"definitionId":"cookie-issue-policy",
-	"configuration":"{\"apiResponseCode\":200,\"cookieName\":\"XSESSION\",\"cookiePath\":\"/\",\"apiResponseFieldName\":\"username\",\"validityPeriod\":120}"
+	"configuration":"{\"apiResponseCode\":200,\"cookieName\":\"XSESSION\",\"cookiePath\":\"/\",\"apiResponseFieldName\":\"username\",\"validityPeriod\":120,\"responseBehaviour\":\"Redirect\",\"redirectUrl\":\"/apiman-gateway/example/foo/1.0\"}"
 }

@@ -1,6 +1,6 @@
 {
 	"endpointProperties":{},
-	"endpoint":"http://jsonplaceholder.typicode.com/users/3",
+	"endpoint":"http://echo.jsontest.com/baz/qux/",
 	"endpointType":"rest",
 	"plans":[],"publicService":true,
 	"gateways":[{"gatewayId":"tomcat"}]
