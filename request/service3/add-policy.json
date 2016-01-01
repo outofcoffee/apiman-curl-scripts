@@ -1,4 +1,4 @@
 {
 	"definitionId":"cookie-remove-policy",
-	"configuration":"{\"cookieName\":\"XSESSION\",\"cookiePath\":\"/\",\"invalidateSession\":true}"
+	"configuration":"{\"cookieName\":\"XSESSION\",\"cookiePath\":\"/\",\"invalidateSession\":true,\"responseBehaviour\":\"Redirect\",\"redirectUrl\":\"http://google.com\",\"skipBackendCall\":true}"
 }
